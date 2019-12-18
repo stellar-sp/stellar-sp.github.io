@@ -1,3 +1,3 @@
 {
-  "apiUrl": "http://116.203.218.214:3000/api/workers"
+  "apiUrl": "/api/workers"
 }
